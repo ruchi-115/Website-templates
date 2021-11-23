@@ -1,2 +1,2 @@
-# proj
-some beginner projects 
+# Front-end web templates
+some of my cool websites.
